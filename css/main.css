@@ -50,7 +50,7 @@ h1 {
 
 h2 {
   font-family: 'Sigmar One', cursive;
-  color: #cc1465;
+  color: #b20953;
   line-height: 1.5;
   text-align: center;
 }
@@ -63,7 +63,6 @@ p {
 img {
   width: 100%;
   display: block;
-  text-align: center;
 }
 
 .nav .current {

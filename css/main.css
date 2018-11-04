@@ -53,3 +53,14 @@ h1 {
 .nav a:hover {
   background-color: #cc1465;
 }
+
+h2 {
+  font-family: 'Sigmar One', cursive;
+  color: #cc1465;
+  line-height: 1.5;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}

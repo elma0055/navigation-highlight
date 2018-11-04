@@ -1,0 +1,55 @@
+html {
+  box-sizing: border-box;
+  font: normal 100%/1.5 Georgia, serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #ffe500;
+  padding: .2em .5em .3em;
+}
+
+h1 {
+  font-size: 3rem;
+  margin: 0;
+  text-align: center;
+  font-family: 'Sigmar One', cursive;
+  color: #cc1465;
+}
+
+.nav {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+
+.nav {
+  margin: 0;
+  list-style-type: none;
+  padding: 0;
+}
+
+.nav li {
+  display: inline-block;
+}
+
+.nav a {
+  color: white;
+  display: inline-block;
+  padding: .75em;
+  background-color: #b2a212;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  background-color: #cc1465;
+}

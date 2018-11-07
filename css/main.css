@@ -38,8 +38,8 @@ h1 {
 .nav a {
   color: white;
   font-size: 1.125rem;
-  display: inline-block;
-  padding: 0 .75em;
+  display: block;
+  padding: .2em .5em .3em;
   background-color: #b2a212;
   border-radius: 4px;
   text-decoration: none;
@@ -53,7 +53,6 @@ h2 {
   font-family: "Sigmar One", cursive;
   color: #b20953;
   line-height: 1.5;
-  text-align: left;
   font-size: 1.875rem;
 }
 
@@ -66,7 +65,6 @@ p {
 img {
   width: 100%;
   display: block;
-  margin: 0.3em;
 }
 
 .nav .current {
@@ -75,4 +73,9 @@ img {
 
 footer {
   background-color: #ffe500;
+  padding: .75em;
+}
+
+main {
+  padding: .75em
 }

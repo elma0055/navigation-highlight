@@ -13,7 +13,6 @@ body {
 
 header {
   background-color: #ffe500;
-  padding: .2em .5em .3em;
 }
 
 h1 {
@@ -33,6 +32,7 @@ h1 {
 
 .nav li {
   display: inline-block;
+  margin-bottom: .3em;
 }
 
 .nav a {
@@ -57,7 +57,7 @@ h2 {
 }
 
 p {
-  text-align: center;
+  text-align: left;
   font-family: Georgia;
   color: #2f2d13;
 }
@@ -77,5 +77,5 @@ footer {
 }
 
 main {
-  padding: .75em
+  padding: 0 .75em
 }
